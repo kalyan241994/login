@@ -1,2 +1,2 @@
 # login
-registration and login in django
+ basic registration and login in django
